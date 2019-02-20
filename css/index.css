@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "BULGARE";
+    src:
+        url("../fonts/BULGARE.otf") format("otf"),
+}
+
+li {
+    margin: 5px 0;
+}
+
+.list-primary {
+    list-style: disclosure-open;
+}
+
+.list-secondary {    
+    list-style: disclosure-closed;
+}
+
+.text-align-middle {
+    text-align: center;
+}
+
+.content {
+    font-family: "BULGARE", Arial, sans-serif;
+}
+
+.content-align-middle {
+    display: table;
+    margin: 0 auto;
+}
